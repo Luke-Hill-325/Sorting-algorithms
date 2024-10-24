@@ -1,0 +1,8 @@
+[package]
+name = "Sorting-algorithms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+interrupts = "0.1.5"
+rand = "0.8.5"
